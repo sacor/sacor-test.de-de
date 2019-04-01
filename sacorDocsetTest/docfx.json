@@ -10,8 +10,8 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "x",
-          "ThirdPartyNotices"
+          "ThirdPartyNotices",
+          "test"
         ],
         "files": [
           "**/*.md",
@@ -27,7 +27,7 @@
       "extendBreadcrumb": true,
       "feedback_system": "None"
     },
-    "markdownEngineName": "dfm-latest",
+    "markdownEngineName": "markdig",
     "overwrite": [],
     "resource": [
       {
