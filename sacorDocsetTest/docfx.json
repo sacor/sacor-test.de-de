@@ -24,6 +24,7 @@
     "globalMetadata": {
       "breadcrumb_path": "/sacorDocsetTest/breadcrumb/toc.json",
       "extendBreadcrumb": true,
+      "bilingual_type": "hover over",
       "feedback_system": "None"
     },
     "markdownEngineName": "markdig",
