@@ -11,7 +11,7 @@
 					"LICENSE",
 					"LICENSE-CODE",
 					"ThirdPartyNotices",
-					"TEST
+					"TEST"
 				],
 				"files": [
 					"**/*.md",
