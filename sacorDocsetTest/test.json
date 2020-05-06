@@ -1,0 +1,71 @@
+{
+	"build": {
+		"content": [
+			{
+				"exclude": [
+					"**/obj/**",
+					"**/includes/**",
+					"_themes/**",
+					"_themes.pdf/**",
+					"README.md",
+					"LICENSE",
+					"LICENSE-CODE",
+					"ThirdPartyNotices",
+					"TEST"
+				],
+				"files": [
+					"**/*.md",
+					"**/*.yml"
+				]
+			}
+		],
+		"dest": "sacorDocsetTest",
+		"externalReference": [],
+		"fileMetadata": {
+			"localization_scopes": {
+				"azure/**/*.yml": [
+					"de-de",
+					"es-es",
+					"fr-fr",
+					"it-it",
+					"ru-ru",
+					"pt-br",
+					"ja-jp",
+					"ko-kr",
+					"zh-cn",
+					"zh-tw",
+					"cs-cz",
+					"hu-hu",
+					"nl-nl",
+					"pl-pl",
+					"pt-pt",
+					"tr-tr",
+					"sv-se"
+				]
+			},
+			"globalMetadata": {
+				"breadcrumb_path": "/sacorDocsetTest/breadcrumb/toc.json",
+				"extendBreadcrumb": true,
+				"bilingual_type": "hover over",
+				"feedback_system": "None"
+			},
+			"markdownEngineName": "markdig",
+			"overwrite": [],
+			"resource": [
+				{
+					"exclude": [
+						"**/obj/**",
+						"**/includes/**",
+						"_themes/**",
+						"_themes.pdf/**"
+					],
+					"files": [
+						"**/*.png",
+						"**/*.jpg"
+					]
+				}
+			],
+			"template": []
+		}
+	}
+}
